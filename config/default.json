@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "aidos mern",
+  "mongoUri": "mongodb+srv://dbUser:dbUserPassword@cluster0.0ut5u.mongodb.net/mern?retryWrites=true&w=majority",
+  "baseUrl":"http://localhost:5000"
+}
